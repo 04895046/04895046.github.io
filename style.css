@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "HelveticaB";
+    src: url("./sus/HelveticaNeue-Bold.otf");
+ }
+ 
+ * {
+    font-family: HelveticaB;
+    color: #131210;
+    background-color: #F3F1D8;
+ }
